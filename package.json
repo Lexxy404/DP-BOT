@@ -1,0 +1,56 @@
+{
+  "name": "DP-BOT",
+  "version": "1.0.0",
+  "description": "bot ini dibuat oleh Dappa dan Yogi",
+  "main": "dappa.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node dappa",
+    "start": "node dappa.js"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "DappaUhuy X YogiPw",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dappauhuy/DP-BOT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dappauhuy/DP-BOT/issues"
+  },
+  "homepage": "https://github.com/dappauhuy/DP-BOT/readme",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.3.0",
+    "@kagchi/kag-api": "^1.5.5",
+    "async": "^2.4.1",
+    "axios": "^0.21.0",
+    "brainly-scraper": "^1.0.3",
+    "cfonts": "^2.9.0",
+    "delay": "^5.0.0",
+    "dotenv": "^8.2.0",
+    "escape-string-regexp": "^1.0.5",
+    "fake-useragent": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "got": "^11.8.1",
+    "image-to-base64": "^2.1.1",
+    "imgbb-uploader": "^1.3.0",
+    "moment-timezone": "^0.5.32",
+    "multistream": "^2.1.0",
+    "needle": "^2.5.2",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "node-tesseract-ocr": "^2.0.0",
+    "parse-ms": "^2.1.0",
+    "performance-now": "^2.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "remove.bg": "^1.3.0",
+    "request": "^2.81.0",
+    "spinnies": "^0.5.1",
+    "tiktok-scraper": "^1.4.7"
+  }
+}
