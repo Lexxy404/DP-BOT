@@ -1,0 +1,19 @@
+LEYS CODERS
+
+buat apikey leys kalian bisa beli di https://leyscoders-api.herokuapp.com atau
+bisa create secara gratis di botnya leys
+caranya ketik /start di botnya terus ketik /key jika sudah tinggal pasang di
+apikey.json
+
+LOLHUMAN
+
+buat apikey lolhuman kalian bisa beli di http://api.lolhuman.xyz harganya 10k/25k
+jika sudah beli tinggal pasang apikeynya di apikey.json
+
+ONLYDEV
+
+buat apikey onlydev kalian bisa beli di https://onlydevcity.herokuapp.com harganya 5k/10k/15k
+jika sudah beli tinggal pasang apikeynya di apikey.json
+
+
+paham ya njg
