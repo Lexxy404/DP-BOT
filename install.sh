@@ -11,5 +11,6 @@ apt-get install tesseract -y
 npm i
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
+npm audit fix
 
 echo "[*] Semua telah di install, Untuk menjalankan ketik \"node index.js\" 👍"
